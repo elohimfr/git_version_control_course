@@ -7,3 +7,6 @@
 5. git log   | get a log of all versions
 6. git checkout [version number]   | change version
 7. git checkout master   | return to the latest version
+8. git checkout -b branch_name   | create a new branch
+9. git push   | push the .git file to the cloud
+10. git pull   | pull the cloud .git to my computer
