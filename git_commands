@@ -5,4 +5,5 @@
 3. git commit -a
 4. git status
 5. git log
-
+6. git checkout [version number]
+7. git checkout master
