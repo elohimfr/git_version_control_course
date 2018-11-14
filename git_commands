@@ -1,9 +1,9 @@
 
 
-1. git init
-2. git add
-3. git commit -a
-4. git status
-5. git log
-6. git checkout [version number]
-7. git checkout master
+1. git init  | start version control (vc) in a directory
+2. git add   | add a file in the directory to vc 
+3. git commit -a   | save a snapshot version of the dir
+4. git status   | list the changes since the last version
+5. git log   | get a log of all versions
+6. git checkout [version number]   | change version
+7. git checkout master   | return to the latest version
